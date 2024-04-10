@@ -20,6 +20,7 @@
         "phpunit/phpunit": "^10"
     },
     "require": {
-        "php": "^8.3"
+        "php": "^8.3",
+        "monolog/monolog": "^3.5"
     }
 }
