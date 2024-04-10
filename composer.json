@@ -1,0 +1,25 @@
+{
+    "name": "khannedy/belajar-php-psr",
+    "autoload": {
+        "psr-4": {
+            "Khannedy\\BelajarPhpPsr\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Khannedy\\BelajarPhpPsr\\": "test/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eko Kurniawan Khannedy",
+            "email": "echo.khannedy@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^10"
+    },
+    "require": {
+        "php": "^8.3"
+    }
+}
