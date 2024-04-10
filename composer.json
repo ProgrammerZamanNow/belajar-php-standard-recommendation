@@ -24,6 +24,8 @@
         "monolog/monolog": "^3.5",
         "nyholm/psr7": "^1.8",
         "nyholm/psr7-server": "^1.1",
-        "laminas/laminas-httphandlerrunner": "^2.10"
+        "laminas/laminas-httphandlerrunner": "^2.10",
+        "guzzlehttp/guzzle": "^7.8",
+        "php-di/php-di": "^7.0"
     }
 }
